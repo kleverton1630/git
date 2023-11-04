@@ -1,0 +1,8 @@
+1 - iniciando o rastreamento do projeto com o git com o comando git init
+
+2 - adicionando o arquivo para ser rastreado pelo 
+
+3 - criando uma branch principal para o projeto
+
+4 - comitando o primeiro arquivo para rastreamento pelo git
+
